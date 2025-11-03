@@ -23,6 +23,12 @@
       "host": "185.207.214.19",
       "game_port": 2602,
       "query_port": 2605
+    },
+    {
+      "name": "The Nightmares DayZ [PVE][RU][TEST SERVER]",
+      "host": "185.207.214.19",
+      "game_port": 2702,
+      "query_port": 2705
     }
   ],
   "mods": [
