@@ -1,0 +1,102 @@
+{
+  "servers": [
+    {
+      "name": "The Nightmares DayZ [PVE][RU][CHERNO]-1",
+      "host": "185.207.214.19",
+      "game_port": 2302,
+      "query_port": 2305
+    },
+    {
+      "name": "The Nightmares DayZ [PVE][RU][CHERNO]-2",
+      "host": "185.207.214.19",
+      "game_port": 2502,
+      "query_port": 2505
+    },
+    {
+      "name": "The Nightmares DayZ [PVE][RU][NAMALSK]",
+      "host": "185.207.214.19",
+      "game_port": 2402,
+      "query_port": 2405
+    },
+    {
+      "name": "The Nightmares DayZ [PVE][RU][LIVONIA]",
+      "host": "185.207.214.19",
+      "game_port": 2602,
+      "query_port": 2605
+    }
+  ],
+  "mods": [
+    {
+      "name": "CF",
+      "workshop_id": "1559212036"
+    },
+    {
+      "name": "BaseBuildingPlus",
+      "workshop_id": "1710977250"
+    },
+    {
+      "name": "Code Lock",
+      "workshop_id": "1646187754"
+    },
+    {
+      "name": "CannabisPlus",
+      "workshop_id": "1932611410"
+    },
+    {
+      "name": "MMG - Mightys Military Gear",
+      "workshop_id": "2663169692"
+    },
+    {
+      "name": "SNAFU Weapons",
+      "workshop_id": "2443122116"
+    },
+    {
+      "name": "WindstridesClothingPack",
+      "workshop_id": "1797720064"
+    },
+    {
+      "name": "FlipTransport",
+      "workshop_id": "1832448183"
+    },
+    {
+      "name": "TraderPlus",
+      "workshop_id": "2458896948"
+    },
+    {
+      "name": "VPPAdminTools",
+      "workshop_id": "1828439124"
+    },
+    {
+      "name": "Namalsk Island",
+      "workshop_id": "2289456201"
+    },
+    {
+      "name": "Namalsk Survival",
+      "workshop_id": "2289461232"
+    },
+    {
+      "name": "Survivor Animations",
+      "workshop_id": "2918418331"
+    },
+    {
+      "name": "TerjeCore",
+      "workshop_id": "3359676785"
+    },
+    {
+      "name": "TerjeSkills",
+      "workshop_id": "3359678303"
+    },
+    {
+      "name": "TerjeCompatibilityVPP",
+      "workshop_id": "3359680178"
+    },
+    {
+      "name": "The Nightmares DayZ",
+      "workshop_id": "2942049205"
+    },
+    {
+      "name": "The Nightmares DayZ - Vehicles",
+      "workshop_id": "3023576720"
+    }
+  ]
+}
