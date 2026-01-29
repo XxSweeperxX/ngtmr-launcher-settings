@@ -2,27 +2,27 @@
     "servers": [
         {
             "name": "The Nightmares DayZ [PVE][RU][CHERNO]-1",
-            "host": "185.207.214.19",
+            "host": "91.218.9.85",
             "game_port": 2302,
-            "query_port": 2305
+            "query_port": 2402
         },
         {
             "name": "The Nightmares DayZ [PVE][RU][CHERNO]-2",
-            "host": "185.207.214.19",
-            "game_port": 2502,
-            "query_port": 2505
+            "host": "91.218.9.85",
+            "game_port": 2303,
+            "query_port": 2403
         },
         {
             "name": "The Nightmares DayZ [PVE][RU][NAMALSK]",
-            "host": "185.207.214.19",
-            "game_port": 2402,
-            "query_port": 2405
+            "host": "91.218.9.85",
+            "game_port": 2304,
+            "query_port": 2404
         },
         {
             "name": "The Nightmares DayZ [PVE][RU][LIVONIA]",
-            "host": "185.207.214.19",
-            "game_port": 2602,
-            "query_port": 2605
+            "host": "91.218.9.85",
+            "game_port": 2315,
+            "query_port": 2405
         }
     ],
     "mods": [
